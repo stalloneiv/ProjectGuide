@@ -35,4 +35,4 @@
         * [3.3.9项目问题管理](chapter3/section3.3/3.3.9.md)
     * [3.4 项目过程监控](chapter3/section3.4.md)
     * [3.5 项目总结与结项](chapter3/section3.5.md)
-* [第四部分 究竟什么是项目经理](chapter3/section4.1.md) 
+* [第四部分 什么是项目经理](chapter3/section4.1.md) 
